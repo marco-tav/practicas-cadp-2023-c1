@@ -8,5 +8,5 @@ var
 begin
   read(int1);
   read(int2);
-  write('Se ingresaron los valores ', int2, ' y ', int3, '.'); {Preguntar si están bien escritas las variables en la string del write.}
+  write('Se ingresaron los valores ', int2, ' y ', int3, '.');
 end;
