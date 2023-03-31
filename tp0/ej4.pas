@@ -11,9 +11,9 @@ var
   D, r, A, P: real;
 begin 
   read(D);
-  r = D div 2;
-  A = pi * r * r;
-  P = 2 * pi * r;
+  r := D div 2;
+  A := pi * r * r;
+  P := 2 * pi * r;
   write('El círculo tiene: ');
   write('Radio: ', writeln(r : 1 : 2));
   write('Area: ', writeln(A : 1 : 2));

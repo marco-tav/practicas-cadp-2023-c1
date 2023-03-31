@@ -10,6 +10,6 @@ var
 begin
   read(int1);
   read(int2);
-  suma = int1 + int2;
+  suma := int1 + int2;
   write('La suma de ', int2, ' y ', int2, ' es ', suma, '.');
 end;
