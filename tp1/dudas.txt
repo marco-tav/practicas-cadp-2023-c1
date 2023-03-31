@@ -1,0 +1,7 @@
+PARTE 1
+
+  * Ej1: varias dudas de sintaxis en el if: Cuándo lleva punto y coma una instrucción? Cuándo lleva begin y end?
+    Hasta donde entiendo de lo que googleé solo lleva punto y coma la instrucción final del else (es más, decía 
+    que un bloque if-then-else no admite punto y coma antes del else), pero en la clase y de compañeros etendí 
+    otras cosas, como que lleva punto y coma solo cuando va begin y else, que es cuando hay más de una instrucción
+    en un bloque dado. 
