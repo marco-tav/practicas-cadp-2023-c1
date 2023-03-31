@@ -1,2 +1,5 @@
 * Ej1: preguntar si están bien escritas las variables en la string del write.
+
 * Ej3: preguntar si el writeln va así o había que hacerlo de otra forma.
+
+* Ej4: Está bien meter el writln dentro del write? Cómo lo haría sino?

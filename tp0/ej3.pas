@@ -8,5 +8,5 @@ var
 begin
   read(r1);
   read(r2);
-  write('El restultado de divir ', r1, ' y ', r2, ' es: ', writeln(r1/r2, 1, 2), '.');
+  write('El restultado de divir ', r1, ' y ', r2, ' es: ', writeln(r1 / r2:1:2), '.');
 end;
