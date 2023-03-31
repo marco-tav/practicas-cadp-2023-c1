@@ -11,7 +11,7 @@ var
   D, r, A, P: real;
 begin 
   read(D);
-  r = D / 2;
+  r = D div 2;
   A = pi * r * r;
   P = 2 * pi * r;
   write('El círculo tiene: ');

@@ -3,3 +3,8 @@
 * Ej3: preguntar si el writeln va así o había que hacerlo de otra forma.
 
 * Ej4: Está bien meter el writln dentro del write? Cómo lo haría sino?
+
+* Ej5: Si yo especifico una variable como integer y otra como real, puedo operar entre ellas son drama?
+  Por ejemplo: si defino A=10 (integer) y B=2.2754 (que es real, claro), puedo hacer C=A div B?
+
+* General: sigo teniendo dudas sobre como estoy escribiendo los writln dentro de los write.
