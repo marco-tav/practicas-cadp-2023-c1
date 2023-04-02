@@ -7,3 +7,9 @@ PARTE 1
     en un bloque dado. 
 
   * Ej3: hay alguna manera de optimizar más el algoritmo de ordenamiento?
+
+  * Ej4: puedo hacer read a varias variables en una misma instrucción? Por ejemplo:
+    En vez de hacer read(variable1); read(variable2);
+    hacer read(variable1, variable2);
+
+  * Ej4: cuándo lleva punto y coma una instrucción en un while..do? Llevan siempre begin end?
