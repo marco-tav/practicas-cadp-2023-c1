@@ -25,4 +25,6 @@ begin
     menor := medio
     medio := mayor
     mayor := num;
+
+  write(mayor, ', ', medio, ', ', menor, '.');
 end;

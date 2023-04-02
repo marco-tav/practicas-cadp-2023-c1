@@ -5,3 +5,5 @@ PARTE 1
     que un bloque if-then-else no admite punto y coma antes del else), pero en la clase y de compañeros etendí 
     otras cosas, como que lleva punto y coma solo cuando va begin y else, que es cuando hay más de una instrucción
     en un bloque dado. 
+
+  * Ej3: hay alguna manera de optimizar más el algoritmo de ordenamiento?
