@@ -13,3 +13,5 @@ PARTE 1
     hacer read(variable1, variable2);
 
   * Ej4: cuándo lleva punto y coma una instrucción en un while..do? Llevan siempre begin end?
+
+  * Ej5: está bien la resolución con el contador? Hay alguna forma mejor?
