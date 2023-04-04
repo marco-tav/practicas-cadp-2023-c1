@@ -15,3 +15,5 @@ PARTE 1
   * Ej4: cuándo lleva punto y coma una instrucción en un while..do? Llevan siempre begin end?
 
   * Ej5: está bien la resolución con el contador? Hay alguna forma mejor?
+
+  * General: es div o / para la división? O es uno para real y el otro para entero?
