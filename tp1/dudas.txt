@@ -17,3 +17,5 @@ PARTE 1
   * Ej5: está bien la resolución con el contador? Hay alguna forma mejor?
 
   * General: es div o / para la división? O es uno para real y el otro para entero?
+
+  * Ej8: es mejor solución así o con if nesteados? Parece mucho mejor así pero puedo estar equivocado.
