@@ -1,8 +1,6 @@
 (* Modifique el ejercicio 1 para que además informe la cantidad de números mayores a 5. *)
 
 program tp01-p2-ej1
-const
-  max_i = 10;
 var 
   num, i, suma, Ma5: integer;
 begin

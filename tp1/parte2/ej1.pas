@@ -1,8 +1,6 @@
 (* Realizar un programa que lea 10 números enteros e informe la suma total de los números leídos *)
 
 program tp01-p2-ej1
-const
-  max_i = 10;
 var 
   num, i, suma: integer;
 begin

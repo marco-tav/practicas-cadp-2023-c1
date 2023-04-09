@@ -21,3 +21,9 @@ PARTE 1
   * Ej8: es mejor solución así o con if nesteados? Parece mucho mejor así pero puedo estar equivocado.
 
   * Ej9: se puede hacer una mejor solución?
+
+PARTE 2
+
+  * Ej2: Cómo hago para no tener que hacer la primera iteración del for afuera? Supongo que lo lógico sería elegir estrategicamente
+    un valor inicial para max_num, pero cuál? Para elegir uno que no sea truchable tendría que elegir el mínimo representable por 
+    Pascal. 
