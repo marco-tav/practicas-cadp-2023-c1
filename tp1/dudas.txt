@@ -33,3 +33,9 @@ PARTE 2
     Está bien lo que hice?
 
   * Ej4b: qué conviene hacer para evitar el caso en el que el primer número que entra es 0?
+
+  * Ej5: Si el primer número es 100 entonces corresponde que tanto min como max sean 100. Si yo no uso dos 
+    if por separados ese caso no funciona y me lo almacena solo en el primero que verifica. Cómo soluciono eso?
+    Lo que se me ocurrió es volar los valores iniciales de max y min, hacer un read inicial por fuera del
+    repeat-until, asignar ese num a min y max (sin ifs, porque son innecesarios para ese caso), y después sí 
+    hacer el repeat until pero ya con un if-then-else y no con dos ifs separados que siempre tienen que ejecutarse.
