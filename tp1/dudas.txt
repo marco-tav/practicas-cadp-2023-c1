@@ -19,3 +19,5 @@ PARTE 1
   * General: es div o / para la división? O es uno para real y el otro para entero?
 
   * Ej8: es mejor solución así o con if nesteados? Parece mucho mejor así pero puedo estar equivocado.
+
+  * Ej9: se puede hacer una mejor solución?
