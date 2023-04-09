@@ -39,3 +39,10 @@ PARTE 2
     Lo que se me ocurrió es volar los valores iniciales de max y min, hacer un read inicial por fuera del
     repeat-until, asignar ese num a min y max (sin ifs, porque son innecesarios para ese caso), y después sí 
     hacer el repeat until pero ya con un if-then-else y no con dos ifs separados que siempre tienen que ejecutarse.
+
+  * General: cuando un enunciado me indica que repita una cierta cantidad de veces, conviene almacenar ese 
+    número en una constante (porque sería buena práctica para hacer al código más extensible) o si me dice n, 
+    entonces for i := 1 to n directamente?
+
+  * Ej6: puedo hacer subrangos con un extremo infinito? Tipo los enteros positivos o lo reales positivos. Me surge de 
+    querer definir un rango para los precios, porque no puede haber un precio negativo.

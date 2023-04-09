@@ -6,7 +6,7 @@ program tp01-p2-ej05
 var 
   num, min, max, sum: integer;
 begin
-  suma := 0;
+  suma := 0; {En este solución no es necesario inicializar max y min}
 
   read(num);
   suma := suma + num;
@@ -19,7 +19,7 @@ begin
       suma := suma + num;
       
       if (num < min) then {Una vez que ya me saqué de encima el primero, si num < min entonces num > max tiene que ser falso}
-        min := num;
+        min := num
       else if (num > max) {A lo que voy es a que si num < min entonces ahora esta condición no se evalúa}
         max := num; 
     
