@@ -27,3 +27,9 @@ PARTE 2
   * Ej2, Ej2a: Cómo hago para no tener que hacer la primera iteración del for afuera? Supongo que lo lógico sería elegir estrategicamente
     un valor inicial para max_num, pero cuál? Para elegir uno que no sea truchable tendría que elegir el mínimo representable por 
     Pascal. 
+
+  * Ej4: sería correcto usar un subrango para un contador de un for? Es necesario?
+    Puedo tener un if then, else if sin un else al final? 
+    Está bien lo que hice?
+
+  * Ej4b: qué conviene hacer para evitar el caso en el que el primer número que entra es 0?
