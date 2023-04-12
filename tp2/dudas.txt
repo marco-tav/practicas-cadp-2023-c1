@@ -1,0 +1,9 @@
+Parte 1 
+
+  * Ej1, general: Cómo busca variables un proceso cuando lo llama? Arranca por las definidas internas, 
+    después va por los parámetros y después por las globales? No pasa por las definidas para 
+    el programa principal? 
+    
+    Cómo funciona el llamado a una función o un procedure? Cuando yo lo llamo qué ocurre? Va a buscar la 
+    definición del proceso/function arriba? Pregunto porque así entiendo mejor como busca variables cuando
+    no las encuentra.
