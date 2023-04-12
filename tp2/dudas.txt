@@ -7,3 +7,5 @@ Parte 1
     Cómo funciona el llamado a una función o un procedure? Cuando yo lo llamo qué ocurre? Va a buscar la 
     definición del proceso/function arriba? Pregunto porque así entiendo mejor como busca variables cuando
     no las encuentra.
+
+  * Ej2, general: está bien la secuencia que describí en la línea 14 para explicar?
