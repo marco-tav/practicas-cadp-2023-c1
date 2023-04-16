@@ -9,3 +9,6 @@ Parte 1
     no las encuentra.
 
   * Ej2, general: está bien la secuencia que describí en la línea 14 para explicar?
+
+  * Ej4: qué hace el procedure ahí, cuando encuentra a ya asignada al mismo valor? Ni se fija y asigna de vuelta?
+    No vuelve a asignar porque está en el mismo valor?
