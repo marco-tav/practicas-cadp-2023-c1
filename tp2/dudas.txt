@@ -12,3 +12,5 @@ Parte 1
 
   * Ej4: qué hace el procedure ahí, cuando encuentra a ya asignada al mismo valor? Ni se fija y asigna de vuelta?
     No vuelve a asignar porque está en el mismo valor?
+
+  * Ej6: está bien así? Solo la línea que llama al proceso como programa?
