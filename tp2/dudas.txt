@@ -14,3 +14,8 @@ Parte 1
     No vuelve a asignar porque está en el mismo valor?
 
   * Ej6: está bien así? Solo la línea que llama al proceso como programa?
+
+
+Parte 2
+
+  * Ej2: Está bien lo que hice? Para que declara cant y total si no las usa?

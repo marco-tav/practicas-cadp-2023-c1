@@ -19,7 +19,7 @@ begin
 end;
 
 var
-  dato, par, impar, total, cant : integer;
+  dato, par, impar, total, cant : integer; {Para qué están cant y total??}
 begin
   par := 0;
   impar := 0;
