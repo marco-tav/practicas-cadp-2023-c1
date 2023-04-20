@@ -19,3 +19,5 @@ Parte 1
 Parte 2
 
   * Ej2: Está bien lo que hice? Para que declara cant y total si no las usa?
+
+  * Ej3: Están bien todas las cosas que señalé? Falta algo?
