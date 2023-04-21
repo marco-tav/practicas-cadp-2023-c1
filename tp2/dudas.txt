@@ -24,3 +24,7 @@ Parte 2
 
   * Ej4: cuándo, en el PP, hace 'sumaSalarios := sumaSalarios + salario;' qué pasa? Pregunto porque salario nunca se inicializó. 
          Tira error? Está bien todo lo que señalé en ese ejercicio?
+  
+  * Ej5, general: si el ejercicio me pide hacer un solo módulo, puedo hacer otro o solo tengo que hacer ese?
+
+  * Ej5: está bien como lo hice? Me mandé alguna cagada?
